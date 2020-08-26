@@ -1,6 +1,8 @@
 # identification-the-bottle-with-imageprcessing
 identification the bottle with imageprcessing use Python and openCV
 ![MachDien](https://github.com/wolffr97/identification-the-bottle-with-imageprcessing/blob/master/project.png)
+
+
 Linh kiện phần điện:
 	42 Nema 17 Motor 4-Lead Nema17 Stepper Motor	2
 	Cảm Biến Vật Cản Hồng Ngoại E18-D80NK	2
